@@ -4,7 +4,7 @@ class ArmstrongExample{
 
     int c=0,a,temp;  
 
-    int n=153;//It is the number to check armstrong  
+    int n=153;//This number is to check armstrong  
 
     temp=n;  
 
@@ -22,11 +22,11 @@ class ArmstrongExample{
 
     if(temp==c)  
 
-    System.out.println("armstrong number");   
+    System.out.println("It is aarmstrong number");   
 
     else  
 
-        System.out.println("Not armstrong number");   
+        System.out.println("It is a Not armstrong number");   
 
    }  
 
